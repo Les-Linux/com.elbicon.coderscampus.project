@@ -28,8 +28,10 @@
 >   <tr><td>5</td><td>Textract Result</td><td>A user an view the textract result(s) via a website</td><td>Must Have</td><td>User must have an option to select / filter on event</td></tr>
 </table>
 
-```html
-  <a style="color: red">test</a> 
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
 ```
 
 
