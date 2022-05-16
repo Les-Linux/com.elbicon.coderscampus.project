@@ -28,11 +28,5 @@
 >   <tr><td>5</td><td>Textract Result</td><td>A user an view the textract result(s) via a website</td><td>Must Have</td><td>User must have an option to select / filter on event</td></tr>
 </table>
 
-## <font style="color:yellow">UML Diagram</font>
-<<<<<<< HEAD
-[Test Link] (http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project.git)
->
-=======
+![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://github.com/Les-Linux/com.elbicon.coderscampus.project/blob/39a86e499c7bdd7a5406d34adf9258bd5e2e00a4/use-case.puml
 
-![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/master/src/main/java/com/elbicon/markdown/plantuml/use-case.puml)
->>>>>>> 951aec52f9fcc606f24bc59b2b017b92f11cdaed
