@@ -30,15 +30,4 @@
 
 ## <font style="color:yellow">UML Diagram</font>
 
->
->``` plantuml
->  skinparam actorStyle awesome
->  :User: --> (Use1)
->  "Take image of scorecard" as (Use1)
->  :User: --> (Use2)
->  "Upload image of scorecard" as (Use2)
->```
-
->``` plantuml
->
->``
+![Test](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/master/use-case.puml)
