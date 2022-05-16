@@ -37,6 +37,10 @@
 <!--
     link(s) for displaying plantUml in Github
 -->
-> ![image-capture](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/uc-ScorecardImageCapture.puml)<br/>
-> ![image-read](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/uc-ImageReadService.puml)<br/>
-> > ![image-read](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/uc-AwsTextractProcess.puml)
+**UML Diagram(s)**
+> ![image-capture](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/uc-ScorecardImageCapture.puml)
+
+**Flow Diagram(s)**
+> ![image-read](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/uc-ImageReadService.puml)
+
+> ![image-read](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/uc-AwsTextractProcess.puml)
