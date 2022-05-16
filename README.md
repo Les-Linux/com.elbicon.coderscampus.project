@@ -1,9 +1,3 @@
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
-
 # Leslie Fleming - Final Project, 2022
 
 ## <font style="color:yellow">Synopsis</font>
@@ -34,11 +28,13 @@ p{color:Black !important;}
 >   <tr><td>5</td><td>Textract Result</td><td>A user an view the textract result(s) via a website</td><td>Must Have</td><td>User must have an option to select / filter on event</td></tr>
 </table>
 
-```diff
-- This is a red colored line
-+ This is a green colored line
-- This is a yellow colored line
-@@ This is a purple colored line @@
+```html
+<style>
+    H1{color:Blue !important;}
+    H2{color:DarkOrange !important;}
+    p{color:Black !important;}
+</style>
+    <H1>test</H1>
 ```
 
 
