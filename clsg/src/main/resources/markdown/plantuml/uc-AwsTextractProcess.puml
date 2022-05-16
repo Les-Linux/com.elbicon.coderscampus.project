@@ -1,10 +1,10 @@
 @startuml
 skinparam titleBorderRoundCorner 15
 skinparam titleBorderThickness 2
-skinparam titleBorderColor grey
-skinparam titleBackgroundColor lightblue
+skinparam titleBorderColor 00FF00
+skinparam titleBackgroundColor #00FF00
 skinparam sequenceMessageAlign center
-title Textract Process
+title AWS - Textract Process
     (*) --> "Image Ingress"
     "Image Ingress" --> "Validate Image"
     if "" then
