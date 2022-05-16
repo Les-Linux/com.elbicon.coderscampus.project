@@ -1,0 +1,5 @@
+@startuml
+  skinparam actorStyle awesome
+  :User: --> (Use1)
+  "Scan Scorecard" as (Use1)
+@enduml

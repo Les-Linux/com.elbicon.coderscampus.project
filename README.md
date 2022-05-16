@@ -29,5 +29,10 @@
 </table>
 
 ## <font style="color:yellow">UML Diagram</font>
+<<<<<<< HEAD
 [Test Link] (http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project.git)
 >
+=======
+
+![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/master/src/main/java/com/elbicon/markdown/plantuml/use-case.puml)
+>>>>>>> 951aec52f9fcc606f24bc59b2b017b92f11cdaed
