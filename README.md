@@ -29,16 +29,5 @@
 </table>
 
 ## <font style="color:yellow">UML Diagram</font>
-
+[Test Link] (http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project.git)
 >
->``` plantuml
->  skinparam actorStyle awesome
->  :User: --> (Use1)
->  "Take image of scorecard" as (Use1)
->  :User: --> (Use2)
->  "Upload image of scorecard" as (Use2)
->```
-
->``` plantuml
->
->``
