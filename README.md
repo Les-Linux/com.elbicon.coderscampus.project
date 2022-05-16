@@ -1,9 +1,9 @@
 # Leslie Fleming - Final Project, 2022
 
-## <font style="color:yellow">Synopsis</font>
+## [Synopsis](#)
 > Being a sports shooter (clay shooting only), I partake in various events local and troughout the country. During one event, I noticed that the processing of the results was primarily based on manual effort. I thought to myself, hey why not follow Trevor's guidance and learn how to improve the process for the better by means of objection character recognition leveraging Amazon Textract.
 
-## <font style="color:yellow">Requirements </font>
+## [Requirements](#)
 
 > <table border=1 bordercolor="grey"><b>Final Project 2002</b><br/>
 >   <tr><td style="border-width:1;border-color:grey;background-color: grey">Release</td><td style="border-color:grey; width: 25em">1.0.0</td></tr>
@@ -29,7 +29,7 @@
 </table>
 
 
-# 2014, The year of [Blue](#)
+## [UML Diagrams](#)
 
 <!--
     link(s) for displaying plantUml in Github
