@@ -1,3 +1,9 @@
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
 # Leslie Fleming - Final Project, 2022
 
 ## <font style="color:yellow">Synopsis</font>
@@ -34,7 +40,7 @@
 - This is a yellow colored line
 @@ This is a purple colored line @@
 ```
-<span style=“color:green;”>text goes here</span>
+
 
 <!--
     link(s) for displaying plantUml in Github
