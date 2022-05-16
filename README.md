@@ -30,4 +30,4 @@
 
 ## <font style="color:yellow">UML Diagram</font>
 
-![Test](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/master/use-case.puml)
+![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/master/java/com/elbicon/markdown/plantuml/use-case.puml)
