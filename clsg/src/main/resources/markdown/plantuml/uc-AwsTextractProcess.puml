@@ -1,12 +1,27 @@
 @startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor grey
+skinparam titleBackgroundColor lightblue
+skinparam sequenceMessageAlign center
+title Textract Process
     (*) --> "Image Ingress"
     "Image Ingress" --> "Validate Image"
-    if "Valid Image" then
-      -->[true] "Extract Data from Image"
-      --> "Write to data storage repository"
-      --> (*)
+    if "" then
+      -right->[true] "Extract Image Data"
+      if "" then
+        -->[true] "Write to data storage repository"
+        --> if "" then
+                -->[true] "Write image summary to log"
+                --> (*)
+            else
+                -left->[false] "Log Error"
+            endif
+      else
+        -left->[false] "Log Error"
+      endif
     else
-      -left-> [false] "Log Process Failure"
-      -->[Ending process] (*)
+            -left->[false] "Log Error"
+            --> (*)
     endif
 @enduml
