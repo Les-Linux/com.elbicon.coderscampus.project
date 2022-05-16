@@ -31,6 +31,7 @@
 ```diff
 - This is a red colored line
 + This is a green colored line
+- This is a yellow colored line
 @@ This is a purple colored line @@
 ```
 <span style=“color:green;”>text goes here</span>
