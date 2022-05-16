@@ -28,5 +28,5 @@
 >   <tr><td>5</td><td>Textract Result</td><td>A user an view the textract result(s) via a website</td><td>Must Have</td><td>User must have an option to select / filter on event</td></tr>
 </table>
 
-![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/use-case.puml
+[your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/use-case.puml
 
