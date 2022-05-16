@@ -1,0 +1,12 @@
+@startuml
+    (*) --> "Image Ingress"
+    "Image Ingress" --> "Validate Image"
+    if "Valid Image" then
+      -->[true] "Extract Data from Image"
+      --> "Write to data storage repository"
+      --> (*)
+    else
+      -left-> [false] "Log Process Failure"
+      -->[Ending process] (*)
+    endif
+@enduml

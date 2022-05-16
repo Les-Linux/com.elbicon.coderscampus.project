@@ -1,7 +1,10 @@
 # Leslie Fleming - Final Project, 2022
 
 ## [Synopsis](#)
-> Being a sports shooter (clay shooting only), I partake in various events local and troughout the country. During one event, I noticed that the processing of the results was primarily based on manual effort. I thought to myself, hey why not follow Trevor's guidance and learn how to improve the process for the better by means of objection character recognition leveraging Amazon Textract.
+> Being a sports shooter (clay shooting only), I partake in various events local and troughout the country. During one event, I noticed that the processing of the results was primarily based on manual effort. I thought to myself, hey why not follow Trevor's guidance and learn how to improve the process for the better by means of objection character recognition leveraging Amazon Textract. <br/>
+> 
+> **What is AWS Textract and how does it work?**<br/>
+>  [Amazon Textract](https://aws.amazon.com/textract/) is a machine learning (ML) service that automatically extracts text, handwriting, and data from scanned documents. It goes beyond simple optical character recognition (OCR) to identify, understand, and extract data from forms and tables.
 
 ## [Requirements](#)
 
@@ -29,10 +32,11 @@
 </table>
 
 
-## [UML Diagrams](#)
+## [Diagram(s)](#)
 
 <!--
     link(s) for displaying plantUml in Github
 -->
-> ![image-capture](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/uc-ScorecardImageCapture.puml)
-
+> ![image-capture](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/uc-ScorecardImageCapture.puml)<br/>
+> ![image-read](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/uc-ImageReadService.puml)<br/>
+> > ![image-read](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/uc-AwsTextractProcess.puml)

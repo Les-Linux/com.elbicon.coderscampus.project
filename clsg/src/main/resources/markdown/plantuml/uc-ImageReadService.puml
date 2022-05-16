@@ -1,0 +1,11 @@
+@startuml
+    skinparam actorStyle awesome
+    :Read Service: --> (Use1)
+    "Connect to datasource repository" as (Use1)
+    :Use1: --> (Use2)
+    "Read Image(s)" as (Use2)
+    :Use2: --> (Use3)
+    "Send to AWS" as (Use3)
+    :Use3: --> (End)
+    "End" as (End)
+@enduml
