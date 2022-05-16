@@ -31,5 +31,5 @@
 <!--
     link(s) for displaying plantUml in Github
 -->
-![image-capture](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/use-case.puml)
+![image-capture](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Les-Linux/com.elbicon.coderscampus.project/main/clsg/src/main/resources/markdown/plantuml/uc-ScorecardImageCapture.puml)
 
