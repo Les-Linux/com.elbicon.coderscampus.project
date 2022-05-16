@@ -28,8 +28,10 @@
 >   <tr><td>5</td><td>Textract Result</td><td>A user an view the textract result(s) via a website</td><td>Must Have</td><td>User must have an option to select / filter on event</td></tr>
 </table>
 
-
+```diff
 <span style="color:blue">some *blue* text</span>
+```
+
 
 
 
